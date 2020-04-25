@@ -1,4 +1,5 @@
 from flask import render_template
+from .request import get_news,get_article
 from app import app
 
 # Views
