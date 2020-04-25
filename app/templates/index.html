@@ -1,0 +1,21 @@
+{% import 'macro.html' as macro}
+{% extends 'base.html' %}
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  {% if title %}
+<title>{{ title }}</title>
+  {% endif %}
+</head>
+<body>
+  <!-- Block styles -->
+  
+  <!-- content block -->
+  {% block content %}
+
+
+{% endblock %}
+</body>
+</html>
