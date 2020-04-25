@@ -22,8 +22,8 @@ def article(id):
     '''
     view news page function that returns the news details  and its data
     '''
-    
     articles = get_article(id)
     title = "News_Highlight"
+
     
     return render_template('article.html', articles = articles, title=title)
