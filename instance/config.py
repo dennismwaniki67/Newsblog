@@ -1,2 +1,0 @@
-NEWS_API_KEY='a6993443e0db41369ee15aac9ea3c920'
-SECRET_KEY='dennis'
