@@ -8,7 +8,8 @@ Email: *dennismwaniki67@gmail.com*
 
 Tel:*0729994042.*
 
-
+##livelink##
+https://newsblog-app.herokuapp.com/
 
 ### Project Description.
 A web application that users can use to check for latest news and also read news from various news sources.
